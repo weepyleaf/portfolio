@@ -86,7 +86,6 @@ p {
 }
 
 h2, ul, li, p.principal {
-  margin: 200px;
   text-align: center;
   list-style: none;
 }
